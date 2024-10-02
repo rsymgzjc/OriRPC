@@ -36,7 +36,7 @@
         <module>HelloServiceAPI</module>
         <module>Server</module>
         <module>Client</module>
-        <module>RPC-simple</module>
+        <module>RPC</module>
         <module>RPC-common</module>
     </modules>
     <dependencies>
