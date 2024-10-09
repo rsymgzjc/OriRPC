@@ -1,0 +1,3 @@
+kyro=com.orirpc.rpc.serialize.kyro.KryoSerializer
+protostuff=com.orirpc.rpc.serialize.protostuff.ProtostuffSerializer
+hessian=com.orirpc.rpc.serialize.hessian.HessianSerializer

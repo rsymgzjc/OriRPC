@@ -2,9 +2,11 @@ package com.orirpc.server.serviceimpl;
 
 import com.orirpc.helloserviceapi.Hello;
 import com.orirpc.helloserviceapi.HelloService;
+import com.orirpc.rpc.annotation.RPCService;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
+@RPCService(group = "test1",version = "version1")
 public class HelloServiceImpl implements HelloService {
 
     static {

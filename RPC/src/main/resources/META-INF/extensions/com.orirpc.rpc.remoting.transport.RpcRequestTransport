@@ -1,0 +1,2 @@
+netty=com.orirpc.rpc.remoting.transport.netty.client.NettyRPCClient
+socket=com.orirpc.rpc.remoting.transport.socket.SocketRPCClient

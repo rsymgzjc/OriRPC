@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 
 
 @Slf4j
-public class HelloServiceImlp2 implements HelloService {
+public class HelloServiceImpl2 implements HelloService {
 
     static {
         System.out.println("HelloServiceImpl2被创建");
